@@ -1,6 +1,6 @@
 print('online change')
 
-print('this thing is awesome')
+print('Online change')
 
 print('hello')
 
